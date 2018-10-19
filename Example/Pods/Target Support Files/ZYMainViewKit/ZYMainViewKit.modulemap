@@ -1,0 +1,6 @@
+framework module ZYMainViewKit {
+  umbrella header "ZYMainViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

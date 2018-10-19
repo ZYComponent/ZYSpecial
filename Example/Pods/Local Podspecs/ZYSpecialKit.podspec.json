@@ -1,0 +1,51 @@
+{
+  "name": "ZYSpecialKit",
+  "version": "0.1.2",
+  "summary": "A short description of ZYSpecialKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZYComponent/ZYSpecialKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1362226852@qq.com": "1362226852@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ZYComponent/ZYSpecialKit",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZYSpecialKit/Classes/**/*",
+  "dependencies": {
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
+    ],
+    "ZYCategoryKit": [
+
+    ],
+    "ZYAPIsKit": [
+
+    ],
+    "ZYConfigsKit": [
+
+    ],
+    "ZYMainViewKit": [
+
+    ],
+    "ZYReformerKeysKit": [
+
+    ],
+    "ZYAuthorKit_Category": [
+
+    ]
+  }
+}

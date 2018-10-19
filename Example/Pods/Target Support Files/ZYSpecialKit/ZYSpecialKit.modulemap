@@ -1,0 +1,6 @@
+framework module ZYSpecialKit {
+  umbrella header "ZYSpecialKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
