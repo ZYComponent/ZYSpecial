@@ -9,8 +9,6 @@
 #import "FFSpecialCell.h"
 #import "ZYSpecialKit.h"
 #import "FFSpecialCellBottomView.h"
-#import "FFSpecialListReformerKeys.h"
-#import "FFAuthorListReformerKeys.h"
 
 @interface FFSpecialCell ()
 
