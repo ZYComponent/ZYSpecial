@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZYSpecialKit_Example' do
+  pod 'ZYSpecialKit', :path => '../'
+
+  target 'ZYSpecialKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
