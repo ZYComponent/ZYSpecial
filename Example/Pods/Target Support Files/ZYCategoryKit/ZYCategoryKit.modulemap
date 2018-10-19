@@ -1,6 +1,0 @@
-framework module ZYCategoryKit {
-  umbrella header "ZYCategoryKit-umbrella.h"
-
-  export *
-  module * { export * }
-}

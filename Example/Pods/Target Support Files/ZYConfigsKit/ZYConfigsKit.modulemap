@@ -1,6 +1,0 @@
-framework module ZYConfigsKit {
-  umbrella header "ZYConfigsKit-umbrella.h"
-
-  export *
-  module * { export * }
-}
