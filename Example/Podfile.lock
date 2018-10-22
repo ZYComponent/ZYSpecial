@@ -44,7 +44,7 @@ PODS:
   - ZYConfigsKit (0.1.2)
   - ZYMainViewKit (0.1.2)
   - ZYReformerKeysKit (0.1.2)
-  - ZYSpecialKit (0.1.2):
+  - ZYSpecialKit (0.1.4):
     - Masonry
     - ReactiveCocoa (~> 2.5)
     - YYWebImage
@@ -101,7 +101,7 @@ SPEC CHECKSUMS:
   ZYConfigsKit: 8d9698926dfb9109c42268bbec5164552e43ffb3
   ZYMainViewKit: 4ed7630aa1e35921f2773b1a7adf67224ee107da
   ZYReformerKeysKit: 189893b2501a36950c2ae8dfe035d023dd8a0b21
-  ZYSpecialKit: 45ab758687ce8efa2d3255e0f4f35c41b858d598
+  ZYSpecialKit: 8e43a438fee64432de789dcae2870f43608c685f
   ZYToolsKit: 64c21b0222ad052785d10fb5079bef5cefd4f46d
 
 PODFILE CHECKSUM: cb859498779beaca2780fc54191f65a68522e543
